@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>The input element</h1>
+<h1>Farmer Information</h1>
 
 <form action="/action_page.php">
   <label for="fname">Type of milk:</label> 
