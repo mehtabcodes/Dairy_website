@@ -1,0 +1,22 @@
+<style type=text/css>
+         .leftdiv
+         {
+         float: left;
+         }
+         .middlediv
+         {
+         float: left;
+         background-color:gray
+         }
+         .rightdiv
+         {
+         float: left;
+         }
+         div{
+         padding : 1%;
+         color: white;
+         background-color: 009900;
+         width: 30%;
+         border: solid black;
+         }
+      </style>
